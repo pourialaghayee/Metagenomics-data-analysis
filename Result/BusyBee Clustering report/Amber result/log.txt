@@ -1,0 +1,9 @@
+2021-07-16 17:19:40,018 INFO Loading Gold standard
+2021-07-16 17:19:40,054 INFO Loading BB
+2021-07-16 17:19:40,086 INFO Creating output directories
+2021-07-16 17:19:40,087 INFO Evaluating Gold standard (sample gsa, genome binning)
+2021-07-16 17:19:40,242 INFO Evaluating BB (sample gsa, genome binning)
+2021-07-16 17:19:40,377 INFO Saving computed metrics
+2021-07-16 17:19:40,392 INFO Creating genome binning plots
+2021-07-16 17:19:47,911 INFO Creating HTML page
+2021-07-16 17:19:48,892 INFO AMBER finished successfully. All results have been saved to /content/Result
